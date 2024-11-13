@@ -7,7 +7,7 @@ A Tool to Find Commonalities in Exploit Kit Objects from Packet Captures. <br />
 * scikit-learn is the Python library that is used to do the TF-IDF analysis.
 
 ## Author
-* Kyle O'Meara
+* simulationKYLE
 * Created during [GeekWeek 2016](https://g33kw33k.ca/en/index.html)
 
 ## Dependencies
